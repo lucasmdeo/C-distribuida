@@ -1,2 +1,3 @@
-# C-distribuida
-Disciplina do curso de Ciência da Computação da UFFS
+Aluno: Lucas Martins de Oliveira
+Disciplina: Ciência da computação
+Universidade Federal da Fronteira Sul, UFFS
